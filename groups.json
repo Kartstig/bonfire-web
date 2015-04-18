@@ -2,6 +2,32 @@
     {
         "id":       1,
         "name":     "Give Back Hack",
-        "keywords": ""
+        "keywords": "",
+        "description": "GiveBackHack came about from a group \
+            of individuals' shared love for Columbus. As an \
+            organization, we seek to promote social innovation. \
+            As an event, we will bring together community leaders, \
+            designers, developers, and other concerned citizens \
+            to create solutions that will help make a lasting \
+            impact in Columbus."
+    },
+    {
+        "id":       2,
+        "name":     "Neighborhood Services",
+        "keywords": ["food","pantry","service","columbus"],
+        "description": "Our programs are successful because \
+            of the generosity of our many volunteers. Volunteers \
+            staff our food pantry Monday through Thursday from 9 a.m. \
+            until 2 p.m. They register clients, help them shop in \
+            the Choice Food Pantry, assist with stocking shelves, \
+            help unload delivery trucks, and perform other duties as needed.\
+            To keep our facility welcoming to our neighbors, we also look for \
+            volunteers to help with housekeeping projects and light facility \
+            maintenance. Volunteers step up to make special projects \
+            possible several times each year by assisting with Holiday \
+            Food Boxes preparation and distribution. During the holiday \
+            season, we provide toys to our neighbors through project \
+            Kringle. Volunteers register neighbors and then help families \
+            select toys and other special items for their children."
     }
 ]
