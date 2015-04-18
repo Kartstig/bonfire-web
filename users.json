@@ -2,41 +2,49 @@
     {
         "id":       1,
         "name":     "Herman Singh",
-        "email":    "kartstig@gmail.com"
+        "email":    "kartstig@gmail.com",
+        "image":    "images/hsingh.jpg"
     },
     {
         "id":       2,
         "name":     "Alexis Chambers",
-        "email":    "alexis@ideabuyer.com"
+        "email":    "alexis@ideabuyer.com",
+        "image":    "images/achambers.jpg"
     },
     {
         "id":       3,
         "name":     "George Gebretensai",
-        "email":    "gebretensai90@gmail.com"
+        "email":    "gebretensai90@gmail.com",
+        "image":    "images/ggebretensai.jpg"
     },
     {
         "id":       4,
         "name":     "Feras Deiratany",
-        "email":    "deiratany.1@osu.edu"
+        "email":    "deiratany.1@osu.edu",
+        "image":    "images/fdeiratany.jpg"
     },
     {
         "id":       5,
         "name":     "James Hendrickson",
-        "email":    "hndrxsn@gmail.com"
+        "email":    "hndrxsn@gmail.com",
+        "image":    "images/jhendrickson.jpg"
     },
     {
         "id":       6,
         "name":     "Charles Severson",
-        "email":    "charlesseverson@gmail.com"
+        "email":    "charlesseverson@gmail.com",
+        "image":    "images/cseverson.jpg"
     },
     {
         "id":       7,
         "name":     "Joesph Bao",
-        "email":    "jose_bao56@yahoo.com"
+        "email":    "jose_bao56@yahoo.com",
+        "image":    "images/hsingh.jpg"
     },
     {
         "id":       8,
         "name":     "John Wallace",
-        "email":    "jwallace@gmal.com"
+        "email":    "jwallace@gmal.com",
+        "image":    "images/jwallace.jpg"
     }
 ]

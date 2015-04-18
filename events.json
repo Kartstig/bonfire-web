@@ -4,6 +4,7 @@
         "name":         "Give Back Hack",
         "address":      "60 Cleveland Ave",
         "event_start":  "2015-04-17T17:30",
-        "event_end":    "2015-04-19T20:30"
+        "event_end":    "2015-04-19T20:30",
+        "image":        "images/gbh.jpg"
     }
 ]
