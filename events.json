@@ -6,31 +6,31 @@
         "event_start":  "2015-04-17T17:30",
         "event_end":    "2015-04-19T20:30",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           2,
-        "name":         "Clean the Ronald McDonald House"
-        "address":      "711 E Livingston Ave"
+        "name":         "Clean the Ronald McDonald House",
+        "address":      "711 E Livingston Ave",
         "event_start":  "2015-04-19T10:30",
         "event_end":    "2015-04-19T12:00",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           3,
-        "name":         "Life Alliance Volunteer Appreciation"
+        "name":         "Life Alliance Volunteer Appreciation",
         "address":      "670 Harmon Ave",
         "event_start":  "2015-04-20T05:30",
         "event_end":    "2015-04-20T20:00",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           4,
         "name":         "Commnuity Garden Cleanup",
         "address":      "909 W. RIch Street",
         "event_start":  "2015-04-21T05:30",
         "event_end":    "2015-04-21T08:30",
         "image":        "images/gbh.png"
-    }
+    },
     {
         "id":           5,
         "name":         "Empower Youth Through Sport",
@@ -38,31 +38,31 @@
         "event_start":  "2015-04-25T08:30",
         "event_end":    "2015-04-25T11:15",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           6,
         "name":         "Manage a Food Pantry",
         "address":      "760 E. Broad St",
         "event_start":  "2015-05-25T08:30",
         "event_end":    "2015-05-25T11:00",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           7,
         "name":         "Unload Produce From Mid-Ohio Foodbank",
         "address":      "614 W Lakeview Ave",
         "event_start":  "2015-04-28T06:00",
         "event_end":    "2015-04-28T07:15",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           8,
         "name":         "Dinner at Homeless Youth Shelter",
         "address":      "1621 N. 4th St",
         "event_start":  "2015-05-29T06:00",
         "event_end":    "2015-05-29T07:30",
         "image":        "images/gbh.png"
-    }
+    },
     {
         "id":           9,
         "name":         "Support Seniors With House Projects",
@@ -70,24 +70,24 @@
         "event_start":  "2015-05-02T08:30",
         "event_end":    "2015-05-02T13:00",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           10,
         "name":         "Senior Lunch Service and Activties",
         "address":      "909 W. Rich St.",
         "event_start":  "2015-05-02T10:30",
         "event_end":    "2015-05-02T13:30",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           11,
         "name":         "Bake Cookies for Families",
         "address":      "711 e Livingston Ave",
         "event_start":  "2015-05-12T17:30",
         "event_end":    "2015-05-12T19:00",
         "image":        "images/gbh.png"
-    }
-     {
+    },
+    {
         "id":           12,
         "name":         "Serve Dinner to Families",
         "address":      "595 Van Buren Dr",
