@@ -1,0 +1,42 @@
+users = [
+    {
+        "id":       1,
+        "name":     "Herman Singh",
+        "email":    "kartstig@gmail.com"
+    },
+    {
+        "id":       2,
+        "name":     "Alexis Chambers",
+        "email":    "alexis@ideabuyer.com"
+    },
+    {
+        "id":       3,
+        "name":     "George Gebretensai",
+        "email":    "gebretensai90@gmail.com"
+    },
+    {
+        "id":       4,
+        "name":     "Feras Deiratany",
+        "email":    "deiratany.1@osu.edu"
+    },
+    {
+        "id":       5,
+        "name":     "James Hendrickson",
+        "email":    "hndrxsn@gmail.com"
+    },
+    {
+        "id":       6,
+        "name":     "Charles Severson",
+        "email":    "charlesseverson@gmail.com"
+    },
+    {
+        "id":       7,
+        "name":     "Joesph Bao",
+        "email":    "jose_bao56@yahoo.com"
+    },
+    {
+        "id":       8,
+        "name":     "John Wallace",
+        "email":    "jwallace@gmal.com"
+    }
+]
