@@ -15,3 +15,12 @@
 //= require turbolinks
 //= require bootstrap-sprockets
 //= require_tree .
+
+
+$(document).ready(function() {
+    $('.people-items').slick({
+      infinite: true,
+      slidesToShow: 5,
+      slidesToScroll: 2
+    });
+});
