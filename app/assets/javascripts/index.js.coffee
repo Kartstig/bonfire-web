@@ -8,3 +8,4 @@ $(document).on 'ready page:load', ->
       slidesToShow: 5,
       slidesToScroll: 2
     });
+    console.log("hello")
