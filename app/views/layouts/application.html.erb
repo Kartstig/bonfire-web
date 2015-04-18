@@ -31,9 +31,13 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="/">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <% @nav.each do |n| %>
+          <% if n['active'] == true %>
+            <li class="active"><a href="<%= n['url'] %>"><%= n['title'] %></a></li>
+          <% else %>
+            <li><a href="<%= n['url'] %>"><%= n['title'] %></a></li>
+          <% end %>
+        <% end %>
       </ul>
     </div><!--/.nav-collapse -->
   </div>
