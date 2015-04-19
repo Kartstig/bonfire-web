@@ -28,7 +28,7 @@ module BonfireWeb
             :title =>   "Home",
             :url =>     "/"
         },
-        :friends => 
+        :friends =>
         {
             :title =>   "Friends",
             :url =>     "/friends"
@@ -39,6 +39,6 @@ module BonfireWeb
             :url =>     "/events"
         }
     }
-  
+
   end
 end
