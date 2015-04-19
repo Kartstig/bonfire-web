@@ -29,7 +29,7 @@
         "address":      "909 W. RIch Street",
         "event_start":  "2015-04-21T05:30",
         "event_end":    "2015-04-21T08:30",
-        "image":        "images/gbh.png"
+        "image":        "images/comgarden.png"
     },
     {
         "id":           5,
@@ -37,7 +37,7 @@
         "address":      "5760 Maple Canyon Ave",
         "event_start":  "2015-04-25T08:30",
         "event_end":    "2015-04-25T11:15",
-        "image":        "images/gbh.png"
+        "image":        "images/gffc.gif"
     },
     {
         "id":           6,
@@ -45,7 +45,7 @@
         "address":      "760 E. Broad St",
         "event_start":  "2015-05-25T08:30",
         "event_end":    "2015-05-25T11:00",
-        "image":        "images/gbh.png"
+        "image":        "images/givebesa.jpg"
     },
     {
         "id":           7,
@@ -53,7 +53,7 @@
         "address":      "614 W Lakeview Ave",
         "event_start":  "2015-04-28T06:00",
         "event_end":    "2015-04-28T07:15",
-        "image":        "images/gbh.png"
+        "image":        "images/midohiofoodbank.jpg"
     },
     {
         "id":           8,
@@ -61,7 +61,7 @@
         "address":      "1621 N. 4th St",
         "event_start":  "2015-05-29T06:00",
         "event_end":    "2015-05-29T07:30",
-        "image":        "images/gbh.png"
+        "image":        "images/star-house.png"
     },
     {
         "id":           9,
