@@ -27,8 +27,9 @@
         <% @comp_list.each do |event, users| %>
             <div class="events-row row">
                 <div class="col-lg-3">
-                    <a class="btn btn-success event-lists"><i class="event-add fa fa-plus-circle"></i>
+                    <a class="btn btn-success event-btn"><i class="event-add fa fa-plus-circle"></i>
                     <%= event['name'] %></a>
+                    <p class="event-added">Event Added!</p>
                 </div>
                 <div class="col-lg-9">
                     <div class="people-list">

@@ -18,5 +18,11 @@ $(document).on("ready page:load", function() {
       function () {
         $(this).parent().find('p').fadeOut(150);
       }
-    );  
+    );
+
+    $('.event-btn').on('click', function() {
+        $(this).parent().find('p').fadeIn(200);
+        $(this).parent().find('p').fadeOut(2000);
+        $(this).parent().parent().slideUp(200);
+    });
 });

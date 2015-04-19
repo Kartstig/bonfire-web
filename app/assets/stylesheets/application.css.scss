@@ -57,10 +57,10 @@ p.people-caption {
 }
 
 .events-row {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
-.event-lists {
+.event-btn {
     margin-top: 64px;
 }
 
@@ -83,6 +83,12 @@ p.people-caption {
     text-align: center;
 }
 
+.event-added {
+    font-weight: bold;
+    display: none;
+    margin-top: -80px;
+}
+
 .brand {
     height: 40px;
     margin-top: -15px;
@@ -91,6 +97,7 @@ p.people-caption {
 .navbar {
     padding-bottom: 0px;
     background-color: #202020;
+    margin-bottom: 10px;
 }
 
 html, body {
@@ -151,8 +158,4 @@ button.slick-prev:hover, button.slick-next:hover {
 .strip {
     height: 5px;
     background-color: #e46100;
-}
-
-.event_lists {
-    vertical-align: center;
 }
