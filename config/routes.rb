@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'events#index'
+  root 'index#index'
 
   resources 'friends', only: :index
   resources 'events', only: :index
