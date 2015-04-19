@@ -22,22 +22,26 @@ module BonfireWeb
 
     # Do not swallow errors in after_commit/after_rollback callbacks.
     config.active_record.raise_in_transactional_callbacks = true
-    config.nav = [
+    config.nav = {
+        :index =>
         {
             :title =>   "Home",
             :url =>     "/",
             :active =>  false
         },
+        :friends => 
         {
             :title =>   "Friends",
-            :url =>     "/",
+            :url =>     "/friends",
             :active =>  false
         },
+        :events =>
         {
             :title =>   "Events",
-            :url =>     "/",
+            :url =>     "/events",
             :active =>  false
         }
-    ]
+    }
+  
   end
 end
