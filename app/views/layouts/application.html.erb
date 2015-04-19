@@ -32,7 +32,7 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <% @nav.each do |k,v| %>
-          <% if @nav[k][:active] == true %>
+          <% if @nav[k][:title] == @active %>
             <li class="active"><a href="<%= @nav[k][:url] %>"><%= @nav[k][:title] %></a></li>
           <% else %>
             <li><a href="<%= @nav[k][:url] %>"><%= @nav[k][:title] %></a></li>

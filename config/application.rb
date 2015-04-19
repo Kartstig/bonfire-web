@@ -26,20 +26,17 @@ module BonfireWeb
         :index =>
         {
             :title =>   "Home",
-            :url =>     "/",
-            :active =>  false
+            :url =>     "/"
         },
         :friends => 
         {
             :title =>   "Friends",
-            :url =>     "/friends",
-            :active =>  false
+            :url =>     "/friends"
         },
         :events =>
         {
             :title =>   "Events",
-            :url =>     "/events",
-            :active =>  false
+            :url =>     "/events"
         }
     }
   
