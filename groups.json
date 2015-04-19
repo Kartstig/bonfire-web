@@ -10,5 +10,24 @@
         "name":     "Neighborhood Services",
         "keywords": ["food","pantry","service","columbus"],
         "description": "Our programs are successful because of the generosity of our many volunteers. Volunteers staff our food pantry Monday through Thursday from 9 a.m. until 2 p.m. They register clients, help them shop in the Choice Food Pantry, assist with stocking shelves, help unload delivery trucks, and perform other duties as needed.To keep our facility welcoming to our neighbors, we also look for volunteers to help with housekeeping projects and light facility maintenance. Volunteers step up to make special projects possible several times each year by assisting with Holiday Food Boxes preparation and distribution. During the holiday season, we provide toys to our neighbors through project Kringle. Volunteers register neighbors and then help families select toys and other special items for their children."
+    },
+     {
+        "id":       3,
+        "name":     "Columbus Rotary Club",
+        "keywords": ["columbus, Leadership, humanitarian, service"],
+        "description": "Leadership and a spirit for humanitarian service.  Columbus Rotarians leverage their skills to improve the lives of people in our community, our country and our world. - See more at: http://www.columbusrotary.org/SitePage/who-we-are#sthash.DKJf9nu8.dpuf"
+    },
+     {
+        "id":       4,
+        "name":     "National Youth Advocate Program",
+        "keywords": "Youth,Advocacy, Family, Mentor, Care Management ",
+        "description":"Youth need to be surrounded by positive role models",
+    },
+     {
+        "id":       5,
+        "name":     "HandsOn Central Ohio",
+        "keywords": "civic engagement, volunteer, social service",
+        "description":"Across the nation people are hungry for opportunities to transform their communities for the better. HandsOn Central Ohio is an integral component to engaging and energizing this cultural movement of people who are so willing to give."
     }
+ ]
 ]
