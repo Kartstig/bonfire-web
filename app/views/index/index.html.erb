@@ -1,31 +1,11 @@
-<div class="top">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-                <h3>What your friends are up to...</h3>
-            </div>
-        </div>
-        <div class="people-info row">
-            <div class="people-header">
-                <h3>FRIENDS</h3>
-            </div>
-            <div class="people-items">
-                <% @users.each do |u| %>
-                    <div class="col-lg-2 col-md-2 col-xs-2 thumb">
-                        <img class="img-responsive people-tile" src="/<%= u['image'] %>" alt="">
-                        <p class="people-caption"><%= u['name'] %></p>
-                    </div>
-                <% end %>
-            </div>
-        </div>
-    </div>
+<div class="container">
+  <div class="jumbotron">
+    <h1>
+      <img src="/images/logo.png" style="height: 1em;">
+      Bonfire
+    </h1>
+    <p>
+      Bonfire is the best app for groups and organizations to arrange events.
+    </p>
+  </div>
 </div>
-<div class="strip">
-    <div class="container">
-    </div>
-</div>
-<div class="bottom">
-    <div class="container">
-    </div>    
-</div>
-
