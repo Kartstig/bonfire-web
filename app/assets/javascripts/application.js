@@ -17,7 +17,7 @@
 //= require_tree .
 
 
-$(document).ready(function() {
+$(document).on("ready page:load", function() {
     $('.people-items').slick({
       infinite: true,
       slidesToShow: 5,
