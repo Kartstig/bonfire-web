@@ -13,7 +13,7 @@
         "address":      "711 E Livingston Ave",
         "event_start":  "2015-04-19T10:30",
         "event_end":    "2015-04-19T12:00",
-        "image":        "images/gbh.png"
+        "image":        "images/rmhcLogo.png"
     },
     {
         "id":           3,
@@ -21,7 +21,7 @@
         "address":      "670 Harmon Ave",
         "event_start":  "2015-04-20T05:30",
         "event_end":    "2015-04-20T20:00",
-        "image":        "images/gbh.png"
+        "image":        "images/lcarealliance.png"
     },
     {
         "id":           4,
