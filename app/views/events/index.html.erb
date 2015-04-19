@@ -5,15 +5,15 @@
                 <h3>What your friends are up to...</h3>
             </div>
         </div>
-        <div class="people-info row">
-            <div class="people-header">
+        <div class="event-info row">
+            <div class="event-header">
                 <h3>EVENTS</h3>
             </div>
             <div class="people-items">
-                <% @users.each do |u| %>
+                <% @events.each do |u| %>
                     <div class="col-lg-2 col-md-2 col-xs-2 thumb">
-                        <img class="img-responsive people-tile" src="/<%= u['image'] %>" alt="">
-                        <p class="people-caption"><%= u['name'] %></p>
+                        <img class="event-tile" src="/<%= u['image'] %>" alt="">
+                        <p class="event-caption"><%= u['name'] %></p>
                     </div>
                 <% end %>
             </div>
@@ -21,12 +21,27 @@
     </div>
 </div>
 <div class="strip">
-    <div class="container">
-
-    </div>
 </div>
 <div class="bottom">
     <div class="container">
+        <h3>Some of the events your friends are checking out...</h3>
+        <% @comp_list.each do |event, users| %>
+            <div class="row">
+                <div class="col-lg-2">
+                    <h3 class="event-lists"><%= event['name'] %></h3>
+                </div>
+                <div class="col-lg-10">
+                    <div class="people-items">
+                        <% users.each do |u| %>
+                            <div class="col-lg-2 col-md-2 col-xs-2 thumb">
+                                <img class="img-responsive people-tile" src="/<%= u['image'] %>" alt="">
+                                <p class="people-caption"><%= u['name'] %></p>
+                            </div>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        <% end %>
     </div>    
 </div>
 
