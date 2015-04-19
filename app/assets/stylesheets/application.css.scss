@@ -39,6 +39,31 @@ p.people-caption {
     color: #e06001;
 }
 
+.people-img {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 64px;
+}
+
+.people-list-caption {
+    display: none;
+    background-color: #202020;
+    color: #e46100;
+    margin-top: -160px;
+    border-radius: 5px;
+    z-index: 100;
+    padding: 2px;
+}
+
+.events-row {
+    margin-bottom: 10px;
+}
+
+.event-lists {
+    margin-top: 64px;
+}
+
 .event-header {
     font-weight: 800;
 }
