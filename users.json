@@ -3,48 +3,48 @@
         "id":       1,
         "name":     "Herman Singh",
         "email":    "kartstig@gmail.com",
-        "image":    "images/people/1.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       2,
         "name":     "Alexis Chambers",
         "email":    "alexis@ideabuyer.com",
-        "image":    "images/people/2.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       3,
         "name":     "George Gebretensai",
         "email":    "gebretensai90@gmail.com",
-        "image":    "images/people/3.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       4,
         "name":     "Feras Deiratany",
         "email":    "f.deiratany@gmail.com",
-        "image":    "images/people/4.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       5,
         "name":     "James Hendrickson",
         "email":    "hndrxsn@gmail.com",
-        "image":    "images/people/5.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       6,
         "name":     "Charles Severson",
         "email":    "charlesseverson@gmail.com",
-        "image":    "images/people/6.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       7,
         "name":     "Josephina Bao",
         "email":    "jose_bao56@yahoo.com",
-        "image":    "images/people/7.png"
+        "image":    "images/people/ncage.jpg"
     },
     {
         "id":       8,
         "name":     "John Wallace",
         "email":    "johna@ppsincorporated.com",
-        "image":    "images/people/8.png"
+        "image":    "images/people/ncage.jpg"
     }
 ]
